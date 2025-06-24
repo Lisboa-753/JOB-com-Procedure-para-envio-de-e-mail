@@ -1,4 +1,4 @@
-# Procedure de Envio de E-mail - Relatório de Atendimento
+# Procedure de Envio de E-mail - Avaliações de fornecedores duplicadas.
 
 Este projeto contém uma procedure (função no banco de dados Oracle) que envia um e-mail com informações sobre deleções de avaliaçoes de fornecedores duplicadas.
 
